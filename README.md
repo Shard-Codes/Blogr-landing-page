@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
-- Live Site URL: [Deployed project link](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/blogr-landing-page-made-using-html-css-and-some-javascript-6u5MCXhhAY)
+- Live Site URL: [Deployed project link](https://blogr-landing-page-new.netlify.app/)
 
 ## My process
 
