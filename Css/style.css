@@ -704,6 +704,11 @@ ul {
     grid-column: 1 / -1;
   }
 
+  .sub__title,
+  .sub__description {
+    text-align: left;
+  }
+
   .sub__title span {
     display: inline-block;
   }
@@ -775,6 +780,7 @@ ul {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     position: relative;
+    text-align: left;
   }
 
   .connect__image {
